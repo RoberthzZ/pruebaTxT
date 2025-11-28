@@ -9,3 +9,5 @@ nombre es Roberto, dsffruta del curso
 la fecha es 2023.
 
 modificamos usuario y contraseña.
+
+Comenzando con Git.
