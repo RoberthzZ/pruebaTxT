@@ -1,19 +1,24 @@
-Hola a todos
+Hola a todos.
 
-adios a todos
+adios a todos.
 
 TITULO "APRENDIENDO NUEVAS COSAS"
 
 Espero que tengan un execelente dia
 
-nombre es Roberto, dsffruta del curso
+nombre es Roberto, disfruta del curso.
 
 la fecha es 2023.
 
 modificamos usuario y contraseña.
 
-Comenzando con Git.
+AGREGAR USUARIO Y CONTRASEÑA
 
-git show agregado
+Comenzando con Git y con Github.
 
-aca empieza una nueva rama
+git show agregado.
+
+aca empieza una nueva rama.
+
+se creo la rama nueva y nos situamos en ella con el comando git checkout NuevaRama, y guardaremos esto como un nuevo cambio
+y aprovechare de arreglar algunas palabras que estan mal escritas.
