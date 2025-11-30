@@ -10,7 +10,7 @@ nombre es Roberto, disfruta del curso.
 
 la fecha es 2023 de Noviembre.
 
-Nuevas pruebas ahora empieza lo bueno.
+Nuevas pruebas ahora Empieza lo bueno.
 
 modificamos usuario y contraseña.
 
