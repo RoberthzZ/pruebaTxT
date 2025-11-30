@@ -20,6 +20,8 @@ agregar la contraseña por ssh.
 
 agregando mas cosas.
 
+agregar muchas cosas para seguir eprendiendo.
+
 Comenzando con Git y con Github.
 
 git show agregado.
