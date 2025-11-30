@@ -1,4 +1,4 @@
-Hola a todos.
+ero que te Hola a todos.
 
 adios a todos.
 
@@ -30,3 +30,5 @@ aca empieza una nueva rama.
 
 se creo la rama nueva y nos situamos en ella con el comando git checkout NuevaRama, y guardaremos esto como un nuevo cambio
 y aprovechare de arreglar algunas palabras que estan mal escritas.
+
+espero que te este gustando el curso
