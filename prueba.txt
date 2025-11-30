@@ -10,8 +10,7 @@ la fecha es 2023.
 
 modificamos usuario y contraseña.
 
-Comenzando con Git.
-
+Comenzando con Git y con Github.
 git show agregado.
 
 aca empieza una nueva rama.
