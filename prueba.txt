@@ -18,6 +18,8 @@ AGREGAR USUARIO Y CONTRASEÑA
 
 agregar la contraseña por ssh.
 
+agregando mas cosas.
+
 Comenzando con Git y con Github.
 
 git show agregado.
