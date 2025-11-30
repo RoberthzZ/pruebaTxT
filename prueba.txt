@@ -10,6 +10,8 @@ nombre es Roberto, disfruta del curso.
 
 la fecha es 2023 de Noviembre.
 
+Nuevas pruebas en Git remote.
+
 modificamos usuario y contraseña.
 
 AGREGAR USUARIO Y CONTRASEÑA
