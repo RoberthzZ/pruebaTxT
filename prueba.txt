@@ -32,3 +32,5 @@ se creo la rama nueva y nos situamos en ella con el comando git checkout NuevaRa
 y aprovechare de arreglar algunas palabras que estan mal escritas.
 
 espero que te este gustando el curso
+
+ACA VAMOS A ESCRIBIR COSAS PARA LA RAMA DIEÑOCOMPLETO A VER QUE SALE.
