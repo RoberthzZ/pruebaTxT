@@ -1,4 +1,4 @@
-ero que te Hola a todos.
+Hola a todos.
 
 adios a todos.
 
@@ -21,6 +21,8 @@ agregar la contraseña por ssh.
 agregando mas cosas.
 
 agregar muchas cosas para seguir aprendiendo.
+
+CAMBIOS HECHOS POR COLABORACION.
 
 Comenzando con Git y con Github.
 
