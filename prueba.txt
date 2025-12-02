@@ -22,9 +22,11 @@ agregando mas cosas.
 
 agregar muchas cosas para seguir aprendiendo.
 
-Comenzando con Git y con Github.
 
-git show agregado.
+
+En diseñoCompleto se modifico esta linea.
+
+
 
 aca empieza una nueva rama.
 
