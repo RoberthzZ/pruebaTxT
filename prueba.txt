@@ -6,7 +6,7 @@ TITULO "APRENDIENDO LAS NUEVAS COSAS"
 
 Espero que tengan un excelente dia
 
-nombre es Roberto, disfruta del CHurso.
+nombre es Roberto, disfruta del Curso de Git y Github.
 
 la fecha es 2023 de Noviembre.
 
